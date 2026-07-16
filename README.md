@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Pixel&pause=1000¢er=true&vCenter=true&width=435&lines=We+are+pixels+of+the+cosmos%2C+;coding+our+own+freedom.)](https://git.io/typing-svg)
 
 <!--
 **Nolkee/Nolkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
